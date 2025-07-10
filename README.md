@@ -16,8 +16,6 @@ Tudo isso com uma interface simples e acessível, ideal para quem está dando os
 🛠️ Tecnologias Utilizadas<br>
 HTML5: Estruturação do conteúdo<br>
 CSS3: Estilização da página<br>
-📸 Demonstração<br>
-Em breve: imagens ou GIFs mostrando o funcionamento do quiz!<br>
 <br>
 📋 Funcionalidades<br>
 ✅ Perguntas de múltipla escolha;<br>
