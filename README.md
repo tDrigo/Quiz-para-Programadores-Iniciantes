@@ -6,7 +6,7 @@ Bem-vindo ao Quiz para Programadores Iniciantes! Este projeto foi desenvolvido c
 🚀 Sobre o Projeto
 Este quiz interativo apresenta uma série de perguntas sobre programação, abordando temas como:
 
-Estrutura de páginas web
+Estrutura de páginas web <br>
 Conceitos de segurança (senhas fortes)
 Conhecimentos gerais sobre linguagens de programação
 Identificação de logotipos
