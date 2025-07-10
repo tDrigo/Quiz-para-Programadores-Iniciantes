@@ -25,5 +25,5 @@ Em breve: imagens ou GIFs mostrando o funcionamento do quiz!
 ✅ Upload de arquivos
 ✅ Seleção de datas e menus suspensos
 ✅ Tabela de pontuação com avaliação
-✅ Gabarito interativo com <details>
+✅ Gabarito interativo
 ✅ Formulário de feedback com alerta de envio
